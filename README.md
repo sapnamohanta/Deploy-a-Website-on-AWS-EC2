@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/sapna-mohanta/AWS-Session.git.
 ```
-2. Setup the following environment variables - `(.env)` file
+2. Setup the following environment variables - `(.env)` file....
 ```
 DOMAIN= ""
 PORT=3000
